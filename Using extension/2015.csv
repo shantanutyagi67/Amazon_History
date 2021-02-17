@@ -1,0 +1,4 @@
+﻿order id,items,to,date,total,postage,gift,VAT,refund,payments
+402-4933935-8237961,Higher Algebra; ,ashish tyagi,2015-12-26,Rs. 148.00,Rs. 0.00,0,0,0,UNKNOWN; 
+402-6407271-8913168,But How Do It Know?: The Basic Principles of Computers for Everyone; ,ashish tyagi,2015-12-20,"Rs. 1,268.00",Rs. 0.00,0,0,0,UNKNOWN; 
+"=SUBTOTAL(103, A2:A3) & "" items""",,,,"=SUBTOTAL(109,E2:E3)","=SUBTOTAL(109,F2:F3)","=SUBTOTAL(109,G2:G3)","=SUBTOTAL(109,H2:H3)","=SUBTOTAL(109,I2:I3)",

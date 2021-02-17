@@ -1,0 +1,4 @@
+﻿order id,items,to,date,total,postage,gift,VAT,refund,payments
+402-5943689-3057102,"Xiaomi Mi Max (Silver, 32GB); ",ashish tyagi,2016-10-02,"Rs. 14,999.00",Rs. 40.00,0,0,0,"Visa ending in 1737: 5 October 2016:   Rs. 14,999.00; "
+171-5702361-0016327,What If?; ,ashish tyagi,2016-09-25,Rs. 299.00,Rs. 40.00,0,0,0,UNKNOWN; 
+"=SUBTOTAL(103, A2:A3) & "" items""",,,,"=SUBTOTAL(109,E2:E3)","=SUBTOTAL(109,F2:F3)","=SUBTOTAL(109,G2:G3)","=SUBTOTAL(109,H2:H3)","=SUBTOTAL(109,I2:I3)",

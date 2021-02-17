@@ -1,0 +1,12 @@
+﻿order id,items,to,date,total,postage,gift,VAT,refund,payments
+406-8121177-4934716,"Steelo Plastic PET Container Set, 1.2 litres, Set of 2, Maroon; ",Ashish tyagi,2021-02-14,Rs. 970.00,Rs. 0.00,0,0,0,Visa ending in 1363: 15 February 2021:   Rs. 970.00; 
+406-3180736-3089938,Nescafe Latte Instant Coffee Premix - 125 g (5 Sachets x 25g Each); ,Ashish tyagi,2021-02-14,Rs. 238.00,Rs. 0.00,0,0,0,Visa ending in 1363: 15 February 2021:   Rs. 238.00; 
+406-1534204-4305956,"Keya Goan Prawn Pickle, 270g; ",Ashish tyagi,2021-02-14,Rs. 450.00,Rs. 0.00,0,0,0,Visa ending in 1363: 15 February 2021:   Rs. 450.00; 
+406-0292878-5110768,"Onlymat Printed Door Mat (Beige, Pvc Coir, 40 X 120 Cm); WIDERZONE Carpet Brush Cleaning Roller Plastic Handheld Cleaning Brush with Dust Crumb Collector for Car Seats, Table Linen, Sofas (Random Colour); ",Ashish tyagi,2021-02-13,Rs. 748.00,Rs. 0.00,0,0,0,Visa ending in 1363: 17 February 2021:   Rs. 249.00; Visa ending in 1363: 15 February 2021:   Rs. 499.00; 
+406-3977209-7999559,,Ashish tyagi,2021-02-13,Rs. 657.00,0,0,0,0,Visa ending in 1363: 13 February 2021:   Rs. 657.00; 
+406-7741024-4050731,"Steelo Plastic PET Container Set, 1.2 litres, Set of 2, Maroon; ",Ashish tyagi,2021-02-12,Rs. 194.00,Rs. 0.00,0,0,0,Visa ending in 1363: 12 February 2021:   Rs. 194.00; 
+406-3534009-9189132,"Amazon Brand - Solimo Plastic Storage Container Set, 1 Litre, Set of 3, Multicolour; ",Ashish tyagi,2021-02-12,Rs. 249.00,Rs. 0.00,0,0,0,Visa ending in 1363: 12 February 2021:   Rs. 249.00; 
+406-2672122-6267522,Rapture - CO-FS1O-I7TW Misty Mountain Car Air Freshener/Perfume/Fragrance (Lavender); ,Ashish tyagi,2021-02-12,Rs. 249.00,Rs. 0.00,0,0,0,Visa ending in 1363: 13 February 2021:   Rs. 249.00; 
+171-5466060-3705107,JBL C50HI in-Ear Headphones with Mic (Black); ,Ashish tyagi,2021-01-21,Rs. 449.00,Rs. 0.00,0,0,0,UNKNOWN; 
+406-3217188-6928345,NurseryServe Desi Khurpa Wooden Handle Gardening Tool - 3 Inch (8 cm); ,Ashish tyagi,2021-01-11,Rs. 131.00,Rs. 0.00,0,0,0,UNKNOWN; 
+"=SUBTOTAL(103, A2:A11) & "" items""",,,,"=SUBTOTAL(109,E2:E11)","=SUBTOTAL(109,F2:F11)","=SUBTOTAL(109,G2:G11)","=SUBTOTAL(109,H2:H11)","=SUBTOTAL(109,I2:I11)",

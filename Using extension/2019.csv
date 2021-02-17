@@ -1,0 +1,12 @@
+﻿order id,items,to,date,total,postage,gift,VAT,refund,payments
+407-0886305-3871545,"Godrej Professional Keratin Rich Shampoo (for Normal to Dry Hair), 250ml; plugin fashionstudio DIY 4 Pole Male Repair Headphones Audio Jack Plug Connector Head (3.5 mm); ",Ashish tyagi,2019-12-28,Rs. 596.00,Rs. 0.00,0,0,Rs. 299.00,UNKNOWN; 
+407-9124082-5969125,FATMUG Travel Toiletry Organizer Bag | Dopp Kit for Men- Cosmetics Make-up Pouch for Women (Orange); ,Ashish tyagi,2019-10-22,Rs. 399.00,Rs. 0.00,0,0,0,UNKNOWN; 
+407-4119424-6348354,JBL T460BT Extra Bass Wireless On-Ear Headphones with Mic (Black); ,Ashish tyagi,2019-10-20,"Rs. 1,999.00",Rs. 0.00,0,0,0,"Visa ending in 0422: 20 October 2019:   Rs. 1,999.00; "
+407-6632912-8718741,"Vishal India Craft Wooden Key Holder, Best Handcrafted Key Hanger; ",Ashish tyagi,2019-10-20,Rs. 174.76,Rs. 65.50,0,0,0,Visa ending in 0422: 22 October 2019:   Rs. 174.76; 
+407-1906114-6510766,Sony SRS-XB12 Extra Bass Portable Waterproof Wireless Speaker (Black); ,Ashish tyagi,2019-10-20,"Rs. 2,691.28",Rs. 0.00,0,0,0,"Visa ending in 0422: 20 October 2019:   Rs. 2,691.28; "
+D01-8606344-8015045,Amazon Prime Membership; ,0,2019-09-30,Rs. 999.00,0,0,0,0,2019-09-30: Rs. 999.00; 
+407-4656057-4954737,Safari Revv Polyester 63 cms Brown Softsided Travel Duffle (Revv-65-Brown-RD); ,Ashish tyagi,2019-07-22,"Rs. 2,160.00",Rs. 0.00,0,0,0,UNKNOWN; 
+407-3936803-0045101,Style Homez 1 Kg Premium Bean Bag Refill for Bean Bags; ,Ashish tyagi,2019-07-07,Rs. 548.00,Rs. 49.00,0,0,0,UNKNOWN; 
+407-0944466-3881914,"BrightLyts Wooden Decorative Surface Mounted Classic Wall Lamp/Wall Light/Light/Sconce for Home Decor (Medium, Brown); ",Ashish tyagi,2019-07-07,"Rs. 3,156.00",Rs. 0.00,0,0,0,UNKNOWN; 
+403-0167267-0029958,Autofurnish Green Stripe Car Body Cover for Toyota Innova Crysta - Arc Blue; ,Ashish tyagi,2019-04-01,"Rs. 1,277.00",Rs. 0.00,0,0,0,UNKNOWN; 
+"=SUBTOTAL(103, A2:A11) & "" items""",,,,"=SUBTOTAL(109,E2:E11)","=SUBTOTAL(109,F2:F11)","=SUBTOTAL(109,G2:G11)","=SUBTOTAL(109,H2:H11)","=SUBTOTAL(109,I2:I11)",

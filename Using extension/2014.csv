@@ -1,0 +1,4 @@
+﻿order id,items,to,date,total,postage,gift,VAT,refund,payments
+171-6616624-5386765,iAccy Snap Case for Samsung Grand i9082 (SS9050); ,ashish tyagi,2014-03-04,Rs. 345.00,Rs. 49.00,0,0,0,UNKNOWN; 
+171-0634003-9081147,SONY PORTABLE CHARGER 2800mAh; ,ashish tyagi,2014-03-04,"Rs. 1,145.00",Rs. 0.00,0,0,0,UNKNOWN; 
+"=SUBTOTAL(103, A2:A3) & "" items""",,,,"=SUBTOTAL(109,E2:E3)","=SUBTOTAL(109,F2:F3)","=SUBTOTAL(109,G2:G3)","=SUBTOTAL(109,H2:H3)","=SUBTOTAL(109,I2:I3)",
